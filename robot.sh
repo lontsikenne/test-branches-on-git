@@ -1,1 +1,0 @@
-echo " this is a robot script"
