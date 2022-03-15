@@ -1,5 +1,5 @@
 #!/bin/bash
-echo " ========================================================================= "
+echo " ---------john ------------- "
 echo " ======= THIS CODE WILL REQUESR FOR II NUMBER AND COMPARE THEN =========== "
 sleep 1
 count=0
